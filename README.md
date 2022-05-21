@@ -54,5 +54,5 @@ The main files will include your main header file (main.h): **#include main.h**
 
 ### Authors &copy;
 
-- Kidus Dawit 
-- Rahel Daniel
+- Lewis Obuba 
+- Ashley Linda
